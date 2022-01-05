@@ -1,0 +1,6 @@
+# Streamlit/simple_loopback.py: 1
+opencv_contrib_python == 4.4.0.46
+opencv-python-headless == 4.5.4.60
+
+# Streamlit/simple_loopback.py: 4
+streamlit_webrtc == 0.32.0
